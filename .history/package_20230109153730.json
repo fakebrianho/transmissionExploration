@@ -1,0 +1,42 @@
+{
+	"name": "remake003",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"vite": "^3.1.0"
+	},
+	"main": "counter.js",
+	"dependencies": {
+		"esbuild": "^0.15.7",
+		"esbuild-darwin-arm64": "^0.15.7",
+		"fsevents": "^2.3.2",
+		"function-bind": "^1.1.1",
+		"glsl-curl-noise": "^0.0.4",
+		"glsl-noise": "^0.0.0",
+		"gsap": "^3.11.4",
+		"has": "^1.0.3",
+		"is-core-module": "^2.10.0",
+		"nanoid": "^3.3.4",
+		"path-parse": "^1.0.7",
+		"pathe": "^0.3.7",
+		"picocolors": "^1.0.0",
+		"postcss": "^8.4.16",
+		"resolve": "^1.22.1",
+		"rollup": "^2.78.1",
+		"source-map-js": "^1.0.2",
+		"supports-preserve-symlinks-flag": "^1.0.0",
+		"three": "^0.128.0",
+		"tweakpane": "^3.1.0",
+		"vite-plugin-glsl": "^0.4.0"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
